@@ -14,7 +14,7 @@ W kolejnych laboratoriach będziemy rozwijać własne projekty i stopniowo tworz
 
 **Skąd wiemy, co właściwie mamy zbudować?**
 
-Na przykładzie Campus AI Assistant zobaczymy, jak szybko agent AI może wygenerować działającą aplikację na podstawie kilku zdań.
+Na przykładzie [Campus AI Assistant](https://github.com/sulmar/campus-ai-assistant) zobaczymy, jak szybko agent AI może wygenerować działającą aplikację na podstawie kilku zdań.
 
 Sprawdzimy również, ile decyzji agent musiał podjąć za nas, ponieważ nie zostały określone w opisie systemu.
 
