@@ -39,3 +39,8 @@ Ktoś spoza zespołu powinien po przeczytaniu tak samo ocenić, czy wymaganie je
 - **Kilku zachowań w jednym zdaniu.** Jeśli jest „oraz”, zwykle są dwa wymagania.
 - **Listy wszystkiego, co kiedyś może się przydać.** Bez priorytetu taka lista nie mówi, co budować najpierw.
 - **Modelu i scenariuszy.** Relacje między pojęciami to laboratorium 04, a przebieg krok po kroku to laboratorium 06. Słownik zostaje przy znaczeniu słów.
+
+## Dobra praktyka
+Po zakończeniu pracy oznaczcie aktualny stan repozytorium tagiem `requirements-v1`.
+
+Więcej informacji: [Oznaczanie kamieni milowych projektu w Git](/docs/good-practices/git-tags.md).
