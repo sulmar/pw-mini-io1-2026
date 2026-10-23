@@ -1,6 +1,6 @@
 # Inżynieria Oprogramowania 1
 
-## Laboratorium 05
+## Laboratorium 06
 
 ### Gdzie kończy się nasz system?
 

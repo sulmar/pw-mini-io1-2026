@@ -1,6 +1,6 @@
 # Inżynieria Oprogramowania 1
 
-## Laboratorium 06
+## Laboratorium 04
 
 ### Kto i po co korzysta z systemu?
 

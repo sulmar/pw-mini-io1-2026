@@ -1,6 +1,6 @@
 # Inżynieria Oprogramowania 1
 
-## Laboratorium 04
+## Laboratorium 05
 
 ### O jakich pojęciach mówimy?
 

@@ -38,7 +38,7 @@ Ktoś spoza zespołu powinien po przeczytaniu tak samo ocenić, czy wymaganie je
 - **Haseł jakości bez miary.** „Nowoczesny, skalowalny i przyjazny” nie da się sprawdzić.
 - **Kilku zachowań w jednym zdaniu.** Jeśli jest „oraz”, zwykle są dwa wymagania.
 - **Listy wszystkiego, co kiedyś może się przydać.** Bez priorytetu taka lista nie mówi, co budować najpierw.
-- **Modelu i scenariuszy.** Relacje między pojęciami to laboratorium 04, a przebieg krok po kroku to laboratorium 06. Słownik zostaje przy znaczeniu słów.
+- **Modelu i scenariuszy.** Przebieg krok po kroku to laboratorium 04, a relacje między pojęciami to laboratorium 05. Słownik zostaje przy znaczeniu słów.
 
 ## Dobra praktyka
 Po zakończeniu pracy oznaczcie aktualny stan repozytorium tagiem `requirements-v1`.

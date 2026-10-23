@@ -47,7 +47,19 @@ Szukamy niejednoznaczności i założeń ukrytych w wizji projektu. Doprecyzowuj
 
 ---
 
-### Laboratorium 04 — Model domeny
+### Laboratorium 04 — Przypadki użycia
+
+**Kto i po co korzysta z systemu?**
+
+Identyfikujemy aktorów, ich cele oraz scenariusze wykorzystania systemu.
+
+Wykorzystujemy diagram przypadków użycia UML do przedstawienia systemu z perspektywy jego użytkowników.
+
+**Rezultat:** `docs/use-cases/`
+
+---
+
+### Laboratorium 05 — Model domeny
 
 **O jakich pojęciach mówimy?**
 
@@ -59,25 +71,13 @@ Wprowadzamy UML jako sposób zapisania i komunikowania modelu domeny.
 
 ---
 
-### Laboratorium 05 — Kontekst systemu
+### Laboratorium 06 — Kontekst systemu
 
 **Gdzie kończy się nasz system?**
 
 Ustalamy granicę projektowanego systemu. Identyfikujemy użytkowników oraz systemy zewnętrzne, z którymi nasze rozwiązanie współpracuje.
 
 **Rezultat:** `docs/system-context.md`
-
----
-
-### Laboratorium 06 — Przypadki użycia
-
-**Kto i po co korzysta z systemu?**
-
-Identyfikujemy aktorów, ich cele oraz scenariusze wykorzystania systemu.
-
-Wykorzystujemy diagram przypadków użycia UML do przedstawienia systemu z perspektywy jego użytkowników.
-
-**Rezultat:** `docs/use-cases/`
 
 ---
 
@@ -119,11 +119,11 @@ Sprawdzamy, czy wcześniejsze decyzje pomagają nam rozwijać system, czy utrudn
 
 **Czy potrafimy uzasadnić nasze rozwiązanie?**
 
-Zespoły prezentują nie tylko działającą aplikację, ale przede wszystkim drogę, która doprowadziła od problemu do rozwiązania.
+Zespoły prezentują nie tylko końcową specyfikację projektu, ale przede wszystkim drogę, która doprowadziła od problemu do rozwiązania.
 
-Prezentacja powinna pokazać:
+Prezentacja powinna pokazać ścieżkę:
 
-**problem → wizję → wymagania → model → architekturę → decyzje → implementację → zmiany**
+**problem → wizja → wymagania → przypadki użycia → model → architektura → decyzje → implementacja → zmiany**
 
 ---
 
@@ -136,9 +136,9 @@ W trakcie kursu repozytorium projektu będzie rozwijało się razem z naszym roz
     │   ├── vision.md
     │   ├── glossary.md
     │   ├── requirements.md
+    │   ├── use-cases/
     │   ├── domain.md
     │   ├── system-context.md
-    │   ├── use-cases/
     │   ├── architecture/
     │   └── decisions/
     ├── src/
