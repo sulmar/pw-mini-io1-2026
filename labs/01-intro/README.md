@@ -11,4 +11,4 @@
 
 Wprowadzenie do inżynierii oprogramowania w czasach generatywnej AI. Na przykładzie [Campus AI Assistant](https://github.com/sulmar/campus-ai-assistant) sprawdzimy, co powstanie, gdy agent otrzyma jedynie krótką wizję systemu.
 
-Na następne zajęcia: przygotować pomysł i krótką wizję własnego projektu.
+Na następne zajęcia: **przygotować pomysł i krótką wizję własnego projektu.**
