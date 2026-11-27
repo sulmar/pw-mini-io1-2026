@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2c11c08cffc853ee",
+        "id": "345ce8bc131f0620",
         "type": "tabs",
         "children": [
           {
-            "id": "3695a6ed2f51dfc7",
+            "id": "0f5eab9837c5dc1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "labs/01-intro/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nowa karta"
             }
           }
         ]
@@ -83,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "77bcac60c4b623e4",
@@ -188,9 +185,10 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "f8ec905f63941aa2",
+  "active": "0f5eab9837c5dc1c",
   "lastOpenFiles": [
-    "README.md",
-    "labs/01-intro/README.md"
+    "labs/01-intro/README.md",
+    "2026-10-02.md",
+    "README.md"
   ]
 }

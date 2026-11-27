@@ -30,6 +30,7 @@ public class CoffeeMachine
             CoffeeMachineState.Off);
 
         _machine.Configure(CoffeeMachineState.Off)
+            .Ignore(CoffeeMachineTrigger.TurnOff)
             .Permit(CoffeeMachineTrigger.TurnOn, CoffeeMachineState.Ready)
             .Permit(CoffeeMachineTrigger.Fail, CoffeeMachineState.Broken)
             ;

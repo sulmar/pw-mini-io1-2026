@@ -67,17 +67,19 @@ Identyfikujemy najważniejsze pojęcia występujące w problemie oraz związki m
 
 Wprowadzamy UML jako sposób zapisania i komunikowania modelu domeny.
 
-**Rezultat:** `docs/domain.md`
+**Rezultat:** `docs/domain-model.md`
 
 ---
 
-### Laboratorium 06 — Kontekst systemu
+### Laboratorium 06 — Model stanów
 
-**Gdzie kończy się nasz system?**
+**Jak zmienia się stan obiektu?**
 
-Ustalamy granicę projektowanego systemu. Identyfikujemy użytkowników oraz systemy zewnętrzne, z którymi nasze rozwiązanie współpracuje.
+Wybieramy obiekt domenowy, którego stan zmienia się w czasie. Określamy jego stany, zdarzenia powodujące zmiany oraz dozwolone przejścia.
 
-**Rezultat:** `docs/system-context.md`
+Wykorzystujemy diagram stanów UML do przedstawienia cyklu życia obiektu.
+
+**Rezultat:** `docs/state-diagram.md`
 
 ---
 
@@ -137,8 +139,8 @@ W trakcie kursu repozytorium projektu będzie rozwijało się razem z naszym roz
     │   ├── glossary.md
     │   ├── requirements.md
     │   ├── use-cases/
-    │   ├── domain.md
-    │   ├── system-context.md
+    │   ├── domain-model.md
+    │   ├── state-diagram.md
     │   ├── architecture/
     │   └── decisions/
     ├── src/
