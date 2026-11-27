@@ -11,6 +11,21 @@
 
 Cykl życia obiektu. Określenie stanów, w których może znaleźć się obiekt domenowy, zdarzeń powodujących zmianę stanu oraz dozwolonych przejść.
 
+## Modelowanie stanów
+
+Stan obiektu określa jego aktualną sytuację i może wpływać na jego zachowanie oraz dostępność operacji.
+
+Diagram stanów UML pozwala określić:
+
+- **Stany (State)** – sytuacje, w których może znajdować się obiekt.
+- **Zdarzenia (Event/Trigger)** – okoliczności mogące wywołać przejście.
+- **Przejścia (Transition)** – dozwolone zmiany pomiędzy stanami.
+- **Warunki (Guard)** – warunki, które muszą zostać spełnione, aby przejście mogło nastąpić.
+- **Akcje (Effect)** – operacje wykonywane podczas przejścia.
+
+Nie każda zmiana wartości atrybutu obiektu oznacza zmianę jego stanu. Modelujemy przede wszystkim stany istotne z punktu widzenia reguł biznesowych i zachowania obiektu.
+
+
 ## Zadanie — Modelowanie stanów
 
 Na podstawie własnego projektu:
